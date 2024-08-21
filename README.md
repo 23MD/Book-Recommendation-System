@@ -4,8 +4,8 @@
 This project is about building a web app that recommends books to users. The system uses two main methods: popularity-based filtering to suggest widely loved books, and collaborative filtering to provide personalized recommendations based on user preferences.
 
 ## Images of UI
-![UI Image 1]()
-![UI Image 2]()
+![UI Image 1](https://github.com/23MD/Book-Recommendation-System/blob/08a062d932150ca6047be01201a555f9cbd74293/Book-Recommendation-System-1.png)
+![UI Image 2](https://github.com/23MD/Book-Recommendation-System/blob/08a062d932150ca6047be01201a555f9cbd74293/Book-Recommendation-System-2.png)
 
 Visit the website [here](https://book-recommendation-system-9ruh.onrender.com/).
 
