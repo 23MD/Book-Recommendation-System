@@ -1,4 +1,4 @@
-# Book Recommender System
+# END-TO-END BOOK RECOMMENDER SYSTEM
 
 ## Problem Statement
 This project is about building a web app that recommends books to users. The system uses two main methods: popularity-based filtering to suggest widely loved books, and collaborative filtering to provide personalized recommendations based on user preferences.
